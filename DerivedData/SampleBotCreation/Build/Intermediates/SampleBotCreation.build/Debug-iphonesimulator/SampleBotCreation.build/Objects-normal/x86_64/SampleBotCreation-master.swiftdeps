@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "376981bdc205bd86bf42dec20d20a90d"
+build_time: [537960925, 99875000]
+inputs:
+  "/Users/ujwal/Desktop/SampleBotCreation/SampleBotCreation/ViewController.swift": [537960922, 0]
+  "/Users/ujwal/Desktop/SampleBotCreation/SampleBotCreation/AppDelegate.swift": [537960922, 0]
