@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>B9UR4K554Y.sample.SampleBotCreation</string>
+	<string>7YRGRQQX3S.sample.SampleBotCreation</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>B9UR4K554Y.sample.SampleBotCreation</string>
+		<string>7YRGRQQX3S.sample.SampleBotCreation</string>
 	</array>
 </dict>
 </plist>
